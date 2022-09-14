@@ -1,0 +1,42 @@
+.fulfil {
+  padding: 2rem;
+  width: 387px;
+  height: 255px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.75rem;
+  background-color: #e4fbed;
+  border: 1px dashed #abd8c4;
+  margin: 1rem;
+}
+.fulfil_image {
+  width: 82px;
+  height: 82px;
+  box-sizing: border-box;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid #abd8c4;
+  border-radius: 50%;
+}
+.fulfil_description {
+  width: 285px;
+  height: 66px;
+  /* font-family: "Gilroy"; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  text-align: center;
+  color: #193c3f;
+}
+.fulfil_title {
+  width: 96px;
+  height: 30px;
+  /* font-family: "Gilroy"; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 125%;
+  color: #193c3f;
+}
